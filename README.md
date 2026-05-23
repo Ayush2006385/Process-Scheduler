@@ -9,6 +9,7 @@ An application built with **Python & Tkinter** that simulates 4 types of CPU pro
 
 ## ✨ Features
 - Input- Select required Algorithms, Add or Remove required number of process
+- For priority scheduling, Lowest number= highest priority and highest value = least priority
 - Option to set arrival time for all process to 0 based on user requirement
 - Gantt Chart and Scheduling Table Visualization
 
