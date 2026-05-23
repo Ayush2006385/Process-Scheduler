@@ -13,5 +13,8 @@ An application built with **Python & Tkinter** that simulates 4 types of CPU pro
 - Gantt Chart and Scheduling Table Visualization
 
 ## 🛠️ How to run
-- Make sure to install python3
+- Make sure to install **python3** and **tkinter module**
+- To install tkinter module, use command
+- For windows - **pip install tk**
+- For Ubuntu/Debian - **sudo apt-get install python3-tk**
 - Run command **python3 gantt.py**
