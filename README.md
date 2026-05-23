@@ -14,5 +14,4 @@ An application built with **Python & Tkinter** that simulates 4 types of CPU pro
 
 ## 🛠️ How to run
 - Make sure to install python3
-- Run command **python3 gantt.py"
-
+- Run command **python3 gantt.py**
